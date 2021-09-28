@@ -2,6 +2,7 @@
 
 ### Date created
 
+<<<<<<< HEAD
 Tuesday - September 28, 2021
 
 ### Project Title
@@ -11,6 +12,19 @@ Explore US Bikeshare data
 ### Description
 
 Describe what your project is about and what it does
+=======
+Tuesday - September 28, 2021.
+
+### Project Title
+
+Explore US Bikeshare Data
+
+### Description
+
+Using python to explore data from three cities: Chicago, New york and Washington.
+The code in the bikeshare.py file import the data and answers important questions by computing descriptive statictics.
+Finally, a script that takes in raw input in the terminal present the statistics.
+>>>>>>> 8a8a5846f38a0dbeaf5a4c3ed94ff7b957f34905
 
 ### Files used
 
