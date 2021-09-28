@@ -2,7 +2,7 @@
 
 ### Date created
 
-September 28, 2021.
+Tuesday - September 28, 2021.
 
 ### Project Title
 
